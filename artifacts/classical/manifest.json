@@ -1,0 +1,11 @@
+{
+  "data_csv": "/Users/shirsegev/Documents/PycharmProjects/ScentPrediction/data/molecule_scent_labels_with_probs.csv",
+  "features_parquet": "/Users/shirsegev/Documents/PycharmProjects/ScentPrediction/features/mordred.parquet",
+  "label_cols": [
+    "label_pungent",
+    "label_sweet",
+    "label_floral",
+    "label_minty"
+  ],
+  "n_rows": 8694
+}
